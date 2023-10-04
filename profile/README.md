@@ -10,6 +10,8 @@
 
 - 🌱 We are currently learning **Linux**
 
+- 🌱 We are currently working on a project called **Hardening of Ubuntu OS using GUI facility**
+
 - 📫 How to reach us **cigar@duck.com**
 
 - ⚡ Our mantra- **Live, laugh and continuously acquire knowledge**
