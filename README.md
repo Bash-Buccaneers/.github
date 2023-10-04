@@ -6,18 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seetharaman52&label=Profile%20views&color=0e75b6&style=flat" alt="seetharaman52" /> </p>
 
-<p align="left"> <a href="https://twitter.com/seetharaman523" target="blank"><img src="https://img.shields.io/twitter/follow/seetharaman523?logo=twitter&style=for-the-badge" alt="seetharaman523"/></a></p>
-
 - 🔭 We are currently pursuing **AI & DS in Karpagam Institute of Technology | Coimbatore**
 
 - 🌱 We are currently learning **Linux**
 
-- 📫 How to reach us **seetharamanshan699@gmail.com**
+- 📫 How to reach us **cigar@duck.com**
 
 - ⚡ Our mantra- **Live, laugh and continuously acquire knowledge**
-
-## Activity On GitHub:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seetharaman52&theme=react&hide_border=true&border_radius=8.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=395)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,8 +26,3 @@
 <strong>Skills:</strong><br><br>
 
   **Python** | **Java** | **Machine Learning** | **Bash** | **MySQL** | **AWS Cloud** | **Linux** | **Flask** |
-
-## Top Repositories:
-<p align="left">
-<a href="https://github.com/seetharaman52/smart-energy-switch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bash-Buccaneers&repo=SIH-23&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-</p>
